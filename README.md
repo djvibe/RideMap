@@ -5,9 +5,9 @@ show all Vancouver carshare, bikeshare, and transit options on one map. Access C
 
 ----------------------------------------------------------------------------
 
-Plan for development.
+# Plan for development.
 
-# V1.0
+V1.0
 
 Show a custom map with markers for all car share services on one map.
 
@@ -18,7 +18,7 @@ Show a custom map with markers for all car share services on one map.
   - Mobi Bikes
   - Translink (Buses and Trains)
   
-# V2.0
+V2.0
 
 Build a trip planning tool to recomend routes based on the above services.
 
